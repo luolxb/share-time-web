@@ -1,0 +1,7 @@
+<view class="name">
+
+<input type="text"  placeholder="请设置昵称" value="{{nickName}}" bindinput="handleText"></input>
+
+<button  bindtap="hanleBtn">设置自定义昵称</button>
+ <button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">使用微信昵称</button>
+</view>

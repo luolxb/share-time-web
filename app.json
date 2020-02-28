@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/user/user",
+    "pages/phonelogin/phonelogin",
+    "pages/user/editUserinfo/editUserinfo",
+    "pages/user/editUserinfo/head/head",
+    "pages/user/editUserinfo/name/name",
+    "pages/user/editUserinfo/phone/phone",
+    "pages/user/releasedHelp/releasedHelp",
+    "pages/user/myReleased/myReleased",
+    "pages/user/myOfferHelp/myOfferHelp"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#937bf5",
+    "navigationBarTitleText": "Share",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#937bf5",
+    "list": [
+      {
+        "iconPath": "images/tabbar/首页.png",
+        "selectedIconPath": "images/tabbar/首页_active.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "images/tabbar/我的.png",
+        "selectedIconPath": "images/tabbar/我的_active.png",
+        "pagePath": "pages/user/user",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

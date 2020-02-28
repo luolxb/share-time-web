@@ -1,0 +1,8 @@
+<view class="login">
+  <view class="weixinlogin">
+    <button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">微信登录</button>
+
+  </view>
+
+  <button class="phonelogin" bindtap="phonelogin">手机号登录</button>
+</view>

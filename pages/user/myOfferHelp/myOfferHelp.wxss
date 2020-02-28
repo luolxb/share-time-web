@@ -1,0 +1,71 @@
+.myOfferHelp {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+.myOfferHelpHead {
+  padding: 20rpx;
+  font-size: 35rpx;
+}
+
+.offerHelping {
+  padding: 20rpx;
+  margin: 0rpx auto 20rpx 30rpx;
+}
+
+.offerHelpingHead {
+  margin-bottom: 20rpx;
+}
+
+.offerHelpingContent {
+  width: 90%;
+  padding: 10rpx;
+  border: 2rpx #fff solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.offerHelpingText {
+  padding: 10rpx;
+  border: 1rpx #fff solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.offerHelpingfoot {
+  margin: -10rpx;
+  text-align: center;
+  height: 50rpx;
+}
+
+
+.offerHelpEnd {
+  padding: 20rpx;
+  margin: 0rpx auto 20rpx 30rpx;
+}
+
+.offerHelpEndHead {
+  margin-bottom: 20rpx;
+}
+
+.offerHelpEndContent {
+  width: 90%;
+  padding: 10rpx;
+  border: 2rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.offerHelpEndText {
+  padding: 10rpx;
+  border: 1rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.aofferHelpEndfoot {
+  margin: -10rpx;
+  text-align: center;
+  height: 50rpx;
+}

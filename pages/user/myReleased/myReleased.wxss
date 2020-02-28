@@ -1,0 +1,101 @@
+.myReleased {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+.myReleasedHead {
+  padding: 20rpx;
+  font-size: 35rpx;
+}
+
+.waitReleased {
+  padding: 20rpx;
+  margin: 0rpx auto 20rpx 30rpx;
+}
+
+.waitReleasedHead {
+  margin-bottom: 20rpx;
+}
+
+.waitReleasedContent {
+  width: 90%;
+  padding: 10rpx;
+  border: 2rpx #fff solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.waitReleasedText {
+  padding: 10rpx;
+  border: 1rpx #fff solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.waitReleasedfoot {
+  /* border: 1rpx #fff solid; */
+  margin: -10rpx;
+  text-align: center;
+  height: 50rpx;
+}
+
+.acceptHelp {
+  padding: 20rpx;
+  margin: 0rpx auto 20rpx 30rpx;
+}
+
+.acceptHelpHead {
+  margin-bottom: 20rpx;
+}
+
+.acceptHelpContent {
+  width: 90%;
+  padding: 10rpx;
+  border: 2rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.acceptHelpText {
+  padding: 10rpx;
+  border: 1rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.acceptHelpfoot {
+  margin: -10rpx;
+  text-align: center;
+  height: 50rpx;
+}
+
+.helpEnd {
+  padding: 20rpx;
+  margin: 0rpx auto 20rpx 30rpx;
+}
+
+.helpEndHead {
+  margin-bottom: 20rpx;
+}
+
+.helpEndContent {
+  width: 90%;
+  padding: 10rpx;
+  border: 2rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.helpEndText {
+  padding: 10rpx;
+  border: 1rpx #937bf5 solid;
+  margin-bottom: 20rpx;
+  border-radius: 20rpx;
+}
+
+.helpEndfoot {
+  margin: -10rpx;
+  text-align: center;
+  height: 50rpx;
+}

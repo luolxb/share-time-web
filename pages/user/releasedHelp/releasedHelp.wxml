@@ -1,0 +1,50 @@
+<view class="releasedHelp">
+  <view class="releasedHelpHead">
+    <text>发布帮助</text>
+    <button size="mini">发布</button>
+  </view>
+
+  <view class="hospital">
+    <view class="hospitalText">
+      <text>看病医院</text>
+    </view>
+    <view class="hospitalInput">
+      <input placeholder="请输入看病医院..." type="text"></input>
+    </view>
+  </view>
+
+  <view class="help">
+    <view class="helpTexxt">
+      <text>需要提供的帮助</text>
+    </view>
+    <view class="helpInput">
+      <textarea maxlength="250" placeholder="请输入内容..."></textarea>
+    </view>
+    <view class="helpInputNum">
+      <text>(<text style="color:{{color}}">{{helpInputNum}}</text>/250字)</text>
+    </view>
+  </view>
+
+  <view class="helpTime">
+    <view class="helpTimeText">
+      <text>需要提供的帮助的时间</text>
+      <view class="dayNum">
+        <text>共</text>
+        <input class="number" type="number"></input>
+        <text>天</text>
+       </view>
+    </view>
+    <view class="helpTimeInput">
+      <textarea placeholder="请输入内容..."></textarea>
+    </view>
+
+    <view class="timeInputNum">
+      <text>(<text style="color:{{helpTimeColor}}">{{timeInputNum}}</text>/250字)</text>
+    </view>
+  </view>
+
+  <view class="button">
+    <button size="mini">确认</button>
+    <button size="mini">修改</button>
+  </view>
+</view>

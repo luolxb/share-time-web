@@ -1,0 +1,62 @@
+<view class="myReleased">
+
+  <view class="myReleasedHead">
+    <text>我的发布</text>
+  </view>
+
+  <view class="waitReleased">
+    <view class="waitReleasedHead">
+      <text>等待发布</text>
+    </view>
+
+    <view class="waitReleasedContent">
+      <view class="waitReleasedText">
+        等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布...
+      </view>
+      <view class="waitReleasedText">
+        等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布...
+      </view>
+      <view class="waitReleasedfoot">
+        获取更多信息...
+      </view>
+    </view>
+  </view>
+
+  <view class="acceptHelp">
+    <view class="acceptHelpHead">
+      <text>正在接受的帮助</text>
+    </view>
+    <view class="acceptHelpContent">
+      <view class="acceptHelpText">
+        正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。
+      </view>
+      <view class="acceptHelpText">
+        正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。
+      </view>
+      <view class="acceptHelpfoot">
+        获取更多信息...
+      </view>
+    </view>
+  </view>
+
+  <view class="helpEnd">
+    <view class="helpEndHead">
+      <text>已经结束的帮助</text>
+    </view>
+    <view class="helpEndContent">
+      <view class="helpEndText">
+        已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。
+      </view>
+      <view class="helpEndText">
+        已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助已经结束的帮助。。。
+      </view>
+      <view class="helpEndfoot">
+        获取更多信息...
+      </view>
+    </view>
+  </view>
+
+
+
+
+</view>

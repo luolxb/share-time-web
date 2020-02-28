@@ -1,0 +1,91 @@
+.releasedHelp {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+.releasedHelpHead {
+  padding: 20rpx;
+  font-size: 35rpx;
+}
+
+.hospital {
+  padding: 20rpx;
+  margin: 60rpx auto 20rpx 30rpx;
+}
+
+.hospitalText {
+  margin-bottom: 20rpx;
+}
+
+.hospitalInput {
+  border-bottom: 1rpx #fff solid;
+  width: 80%;
+}
+
+.help {
+  padding: 20rpx;
+  margin: 60rpx auto 20rpx 30rpx;
+}
+
+.helpTexxt {
+  margin-bottom: 20rpx;
+}
+
+.helpInput {
+  border: 1rpx #fff solid;
+  width: 80%;
+  padding: 10rpx;
+}
+
+.helpInputNum {
+  float: right;
+  margin-right: 120rpx;
+  color: #fff;
+}
+
+.helpTime{
+  padding: 20rpx;
+  margin: 80rpx auto 20rpx 30rpx;
+}
+
+.helpTimeText {
+  margin-bottom: 20rpx;
+}
+
+.helpTimeInput{
+  border: 1rpx #937bf5 solid;
+  width: 80%;
+  padding: 10rpx;
+}
+
+.timeInputNum{
+  float: right;
+  margin-right: 120rpx;
+  color: #937bf5;
+}
+
+.dayNum{
+  width: 160rpx;
+  display: flex;
+    flex-direction:row;
+    float: right;
+  margin-right: 120rpx;
+}
+
+.number{
+  border-bottom: 1rpx #937bf5 solid;
+    margin: 0rpx 15rpx ;
+    text-align: center
+
+}
+
+button {
+  float: right;
+  margin: 0rpx 20rpx 0rpx 0rpx;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+.button {
+  margin: 80rpx 20rpx 230rpx auto;
+}

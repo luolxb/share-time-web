@@ -1,0 +1,21 @@
+.head {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  background: linear-gradient(#937bf5, #fff);
+}
+
+button {
+  margin-bottom: 30rpx;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+.image {
+  /* background-color: black; */
+  padding: 10rpx;
+  margin-bottom: 50rpx;
+}

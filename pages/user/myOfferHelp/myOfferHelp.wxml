@@ -1,0 +1,41 @@
+<view class="myOfferHelp">
+
+  <view class="myOfferHelpHead">
+    <text>我提供的帮助</text>
+  </view>
+
+  <view class="offerHelping">
+    <view class="offerHelpingHead">
+      <text>正在提供的帮助</text>
+    </view>
+
+    <view class="offerHelpingContent">
+      <view class="offerHelpingText">
+        等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布...
+      </view>
+      <view class="offerHelpingText">
+        等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布等待发布...
+      </view>
+      <view class="offerHelpingfoot">
+        获取更多信息...
+      </view>
+    </view>
+  </view>
+
+  <view class="offerHelpEnd">
+    <view class="offerHelpEndHead">
+      <text>已经完成的帮助</text>
+    </view>
+    <view class="offerHelpEndContent">
+      <view class="offerHelpEndText">
+        正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。
+      </view>
+      <view class="offerHelpEndText">
+        正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助正在接受帮助。。。
+      </view>
+      <view class="aofferHelpEndfoot">
+        获取更多信息...
+      </view>
+    </view>
+  </view>
+</view>

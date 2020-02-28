@@ -1,0 +1,21 @@
+/* pages/login/login.wxss */
+
+.login {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  background: linear-gradient(#937bf5, #fff);
+}
+
+button{
+  background: linear-gradient(#937bf5, #fff);
+}
+
+
+.phonelogin{
+  margin-top: 40rpx;
+}

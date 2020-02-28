@@ -1,0 +1,8 @@
+<view class="head">
+<view class="image">
+  <image bindtap="handleUploadImage" src="{{avatarUrl}}"></image>
+
+</view>
+<button bindtap="hanleBtn">设置自定义图像</button>
+<button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">使用微信图像</button>
+</view>

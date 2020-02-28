@@ -1,0 +1,27 @@
+<view class="editUserinfo">
+<view class="editUserinfo-line"></view>
+  <navigator url="/pages/user/editUserinfo/head/head" open-type="navigate">
+    <view class="editUserinfo-list-item">
+      <text>修改图像</text>
+      <text class="iconfont iconarrowRight"></text>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/user/editUserinfo/name/name" open-type="navigate">
+    <view class="editUserinfo-list-item">
+      <text>修改昵称</text>
+      <text class="iconfont iconarrowRight"></text>
+    </view>
+  </navigator>
+
+  <navigator url="/pages/user/editUserinfo/phone/phone" open-type="navigate">
+    <view class="editUserinfo-list-item">
+      <text>设置手机号</text>
+      <text class="iconfont iconarrowRight"></text>
+    </view>
+  </navigator>
+
+  <view class="logout">
+  <button bindtap="hanleBtn">退出</button>
+  </view>
+</view>

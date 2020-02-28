@@ -1,0 +1,20 @@
+.editUserinfo-line {
+  background-color: #ccc;
+  height: 10rpx;
+}
+
+.editUserinfo-list-item {
+  height: 50rpx;
+  border-bottom: 2px solid #b4b5b6 dashed;
+  padding: 20rpx 10rpx 0rpx 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logout {
+  margin: 200rpx;
+}
+
+button {
+}

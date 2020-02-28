@@ -1,0 +1,14 @@
+<!--pages/phonelogin/phonelogin.wxml-->
+<view class="phonelogin">
+
+  <view class="phoneinput">
+    <input type="number"placeholder="请输入11位手机号码" maxlength="11" bindinput="phoneinput"></input>
+  </view>
+
+  <view class="inputcode">
+    <input class="codeinput" placeholder="请输入验证码" maxlength="6" type="number"  bindinput="codeinput"></input>
+    <button class="codebtn" disabled="{{disabled}}" size="mini" bindtap="codebtn">{{codename}}</button>
+  </view>
+
+  <button class="hanleBtn" bindtap="hanleBtn">手机号登录</button>
+</view>

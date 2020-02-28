@@ -1,0 +1,6 @@
+<view class="phone">
+
+<input type="number" maxlength="11" placeholder="请设置手机号码" value="{{phone}}" bindinput="handleText"></input>
+
+<button  bindtap="hanleBtn">设置手机号码</button>
+</view>

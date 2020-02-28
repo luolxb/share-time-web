@@ -1,0 +1,55 @@
+<!--pages/user/user.wxml-->
+<view class="user">
+
+  <view class="user-info" wx:if="{{logined}}">
+    <image src="{{userPhoto}}"></image>
+    <text>欢迎您：{{nickName}}</text>
+  </view>
+
+  <view class="user-info"  wx:else>
+    <image src="/images/user/user-unlogin.png"></image>
+    <text>您好，您尚未登~~~</text>
+    <navigator url="/pages/login/login" open-type="navigate">
+      <text style="color:red">前往登录</text>
+    </navigator>
+  </view>
+  <view class="user-list-space"></view>
+
+
+  <view class="user-list">
+   <navigator url="/pages/user/editUserinfo/editUserinfo" open-type="navigate">
+      <view class="user-list-item">
+        <text>个人信息</text>
+        <text class="iconfont iconarrowRight"></text>
+      </view>
+    </navigator>
+    <navigator url="/pages/user/releasedHelp/releasedHelp" open-type="navigate">
+      <view class="user-list-item">
+        <text>发布帮助</text>
+        <text class="iconfont iconarrowRight"></text>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/user/myReleased/myReleased" open-type="navigate">
+      <view class="user-list-item">
+        <text>我的发布</text>
+        <text class="iconfont iconarrowRight"></text>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/user/myOfferHelp/myOfferHelp" open-type="navigate">
+      <view class="user-list-item">
+        <text>我提供的帮助</text>
+        <text class="iconfont iconarrowRight"></text>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/login/login" open-type="navigate">
+      <view class="user-list-item">
+        <text>我的消息</text>
+        <text class="iconfont iconarrowRight"></text>
+      </view>
+    </navigator>
+  </view>
+
+</view>
